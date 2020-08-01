@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 [![Watson's github stats](https://github-readme-stats.vercel.app/api?username=Watson1978)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watson1978)](https://github.com/anuraghazra/github-readme-stats)
+## Contributes
+- [Ruby](https://github.com/ruby/ruby)
+- [RMagick](https://github.com/rmagick/rmagick)
+- [gruff](https://github.com/topfunky/gruff)
+- [RubyMotion](https://github.com/hipbyte/RubyMotion)
+- [MacRuby](https://github.com/MacRuby/MacRuby)
