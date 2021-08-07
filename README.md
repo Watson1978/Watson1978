@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 - [Ruby](https://github.com/ruby/ruby)
 - [RMagick](https://github.com/rmagick/rmagick)
 - [gruff](https://github.com/topfunky/gruff)
+- [oj](https://github.com/ohler55/oj)
 - [RubyMotion](https://github.com/hipbyte/RubyMotion)
 - [MacRuby](https://github.com/MacRuby/MacRuby)
