@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Watson's github stats](https://github-readme-stats.vercel.app/api?username=Watson1978)](https://github.com/anuraghazra/github-readme-stats)
+[![Watson's github stats](https://github-readme-stats.vercel.app/api?username=Watson1978)](https://github.com/Watson1978)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watson1978&theme=buefy&&hide=html,css,scss)](https://github.com/Watson1978)
 
 ## Contributes
 - [Ruby](https://github.com/ruby/ruby)
