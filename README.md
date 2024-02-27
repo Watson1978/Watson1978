@@ -21,12 +21,12 @@
 ## Speaks
 - RubyKaigi 2019
   - [RMagick, migrate to ImageMagick 7](https://rubykaigi.org/2019/presentations/watson1978.html#apr18)
-- RubyKaigi 2018 LT
-  - https://rubykaigi.org/2018/presentations/lt/
-  - https://speakerdeck.com/watson/improve-json-performance
 - 大江戸Ruby会議07
   - https://regional.rubykaigi.org/oedo07/
   - https://speakerdeck.com/watson/magick
+- RubyKaigi 2018 LT
+  - https://rubykaigi.org/2018/presentations/lt/
+  - https://speakerdeck.com/watson/improve-json-performance
 - RubyKaigi 2017
   - [How to optimize Ruby internal.](https://rubykaigi.org/2017/presentations/watson1978.html)
 - RubyKaigi 2013
