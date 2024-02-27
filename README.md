@@ -18,4 +18,18 @@
 - 2012/09 〜 2017/02 HipByte
   - HipByte is a company that provides [RubyMotion](http://www.rubymotion.com/), a toolchain for iOS and Android app development using the Ruby language.
 
+## Speaks
+- RubyKaigi 2019
+  - [RMagick, migrate to ImageMagick 7](https://rubykaigi.org/2019/presentations/watson1978.html#apr18)
+- RubyKaigi 2018 LT
+  - https://rubykaigi.org/2018/presentations/lt/
+  - https://speakerdeck.com/watson/improve-json-performance
+- 大江戸Ruby会議07
+  - https://regional.rubykaigi.org/oedo07/
+  - https://speakerdeck.com/watson/magick
+- RubyKaigi 2017
+  - [How to optimize Ruby internal.](https://rubykaigi.org/2017/presentations/watson1978.html)
+- RubyKaigi 2013
+  - [Inside RubyMotion](https://rubykaigi.org/2013/talk/S22/)
+
 [More details](https://www.wantedly.com/id/watson1978) (Japanese only)
