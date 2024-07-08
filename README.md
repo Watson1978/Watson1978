@@ -11,6 +11,7 @@
 - [MacRuby](https://github.com/MacRuby/MacRuby)
 
 ## Works
+- 2024/07 〜 [ClearCode Inc.](https://www.clear-code.com)
 - 2020/01 〜 2024/03 [Repro Inc.](https://repro.io/)
   - Repro is a company that provides solutions for marketing automation and personalization.
 - 2017/06 〜 2019/12 [Ubiregi](https://ubiregi.jp/)
