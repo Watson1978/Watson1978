@@ -7,6 +7,7 @@
 - [RMagick](https://github.com/rmagick/rmagick)
 - [gruff](https://github.com/topfunky/gruff)
 - [oj](https://github.com/ohler55/oj)
+- [Fluentd](https://github.com/fluent/fluentd)
 - [RubyMotion](https://github.com/hipbyte/RubyMotion)
 - [MacRuby](https://github.com/MacRuby/MacRuby)
 
