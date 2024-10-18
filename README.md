@@ -5,9 +5,9 @@
 ## Contributes
 - [Ruby](https://github.com/ruby/ruby)
 - [RMagick](https://github.com/rmagick/rmagick)
-- [gruff](https://github.com/topfunky/gruff)
-- [oj](https://github.com/ohler55/oj)
 - [Fluentd](https://github.com/fluent/fluentd)
+- [oj](https://github.com/ohler55/oj)
+- [gruff](https://github.com/topfunky/gruff)
 - [RubyMotion](https://github.com/hipbyte/RubyMotion)
 - [MacRuby](https://github.com/MacRuby/MacRuby)
 
