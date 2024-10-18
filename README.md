@@ -13,6 +13,7 @@
 
 ## Works
 - 2024/07 〜 [ClearCode Inc.](https://www.clear-code.com)
+  - ClearCode is a company that drives forward free softwares and makes the business. I'm working as [Fluentd](https://github.com/fluent/fluentd) team member to develop and support it.
 - 2020/01 〜 2024/03 [Repro Inc.](https://repro.io/)
   - Repro is a company that provides solutions for marketing automation and personalization.
 - 2017/06 〜 2019/12 [Ubiregi](https://ubiregi.jp/)
