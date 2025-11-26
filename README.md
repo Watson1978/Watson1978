@@ -23,6 +23,8 @@
   - HipByte is a company that provides [RubyMotion](http://www.rubymotion.com/), a toolchain for iOS and Android app development using the Ruby language.
 
 ## Speaks
+- CloudNative Days Winter 2025
+  - [クラウドネイティブ時代に進化し続けるFluentd](https://event.cloudnativedays.jp/cndw2025/talks/2700) 
 - RubyKaigi 2019
   - [RMagick, migrate to ImageMagick 7](https://rubykaigi.org/2019/presentations/watson1978.html#apr18)
 - 大江戸Ruby会議07
