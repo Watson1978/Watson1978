@@ -1,6 +1,6 @@
 # Watson1978
 
-[![Watson's github stats](https://github-readme-stats.vercel.app/api?username=Watson1978)](https://github.com/Watson1978)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Watson1978&theme=holi)
 
 ## Contributes
 - [Ruby](https://github.com/ruby/ruby)
